@@ -81,7 +81,7 @@ def lc(color=0):
     # yellow = 3
     # blue = 4
     # magenta = 5
-    # cian = 6
+    # ciano = 6
     # gray = 7
 
 
