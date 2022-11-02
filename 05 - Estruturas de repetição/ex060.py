@@ -12,7 +12,7 @@ print('O fatorial de {} é {}.'.format(n, f))'''
     #print(' x ' if c > 1 else ' = ',end='')
     #mult = mult * c
 #print('O fatorial de {} é {}.'.format(n, mult))
-
+'''
 n = int(input('Digite um número para calcular seu fatorial: '))
 c = n
 f = 1
@@ -23,3 +23,6 @@ while c > 0:
     f = f * c
     c -= 1
 print('{}'.format(f))
+'''
+
+
